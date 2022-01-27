@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Sohanur Rahman Sohan
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Machine Learning Learners.
+- 👀 I’m interested in Machine Learning, Data Analyst and Data Engineering.
+- 🌱 I’m currently learning Machine Learning, Data Analyst and Data Engineering.
+- 💞️ I’m looking to collaborate on Machine Learning, Data Analyst and Data Engineering Learners.
 - 📫 How to reach me Email: srsohan014@gmail.com
 
 <!---
